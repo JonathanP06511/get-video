@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  get-video:
+   build: ../get-video
+   ports:
+     - 3004
+
+  
