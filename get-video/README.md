@@ -51,4 +51,4 @@ To run this project in a Docker container:
 
 ## Documentation
 
-Currently, this project does not include Swagger or other API documentation tools. The routing logic and request handling are implemented in `src/Router/Router.php`.
+This project includes Swagger at `swagger/swagger.json`.
