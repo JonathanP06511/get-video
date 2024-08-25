@@ -12,7 +12,7 @@ This project is a PHP application that uses the built-in PHP server for handling
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone <repository URL>
+    git clone https://github.com/JonathanP06511/get-video.git
     ```
 
 2. No additional dependencies are required. Ensure that you have PHP installed on your machine.
